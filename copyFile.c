@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
 {
     char *str1=argv[1]; // array1
     char *str2=argv[2]; // array2
-     if (argc !=3)
+     if (argc != 3)
     {
         printf("arguments not given");
     }
